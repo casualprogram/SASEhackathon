@@ -1,4 +1,4 @@
-const chatAndRespond = require("../backend/memory")
+const chatAndRespond = require("../backend/chatAndRespond")
 
 async function main(){
     chatAndRespond();
